@@ -17,3 +17,9 @@ Contribution
 ---------------
 
 Make a Pull Request
+
+Citation/Reference
+---------------
+
+Please consider citing the following paper if you use our code:
+  - Bharali et. al. (2022) A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation. [link](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
